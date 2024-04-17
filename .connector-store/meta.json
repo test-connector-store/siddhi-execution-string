@@ -1,0 +1,19 @@
+{
+    "name": "string",
+    "owner": "WSO2",
+    "category": "Siddhi Execution",
+    "documentationUrl": "https://wso2-extensions.github.io/siddhi-execution-string/",
+    "description": "The siddhi-execution-string extension is an extension to Siddhi that provides basic string handling capabilities such as con-cat, length, convert to lowercase, replace all, etc.",
+    "status": "Active",
+    "labels": [
+        "siddhi",
+        "siddhi-execution",
+        "string"
+    ],
+    "releases": [
+        {
+            "tagName": "4.1.1",
+            "products": []
+        }
+    ]
+}
